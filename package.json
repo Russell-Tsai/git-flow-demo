@@ -1,0 +1,11 @@
+{
+  "name": "git-flow-demo",
+  "version": "1.0.0",
+  "description": "git flow test only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "russell",
+  "license": "ISC"
+}
